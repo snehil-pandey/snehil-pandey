@@ -60,6 +60,13 @@ C# • Swift 4 • C++ (Mostly DSA)
 ## 🏆 Achievements
 - [Protect Sensitive Data with Data Loss Prevention Skill Badge](https://www.credly.com/badges/9ee63afc-304c-4257-97bb-bc207347e1de/public_url)
 
+## 🧠 Competitive Programming Profiles
+
+### 🔥 Codewars
+![Codewars](https://www.codewars.com/users/snehil-pandey/badges/large)
+
+### 🟡 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/snehil-pandey?theme=dark&ext=heatmap)
 
 ---
 
