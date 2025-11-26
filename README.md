@@ -50,12 +50,13 @@ C# • Swift 4 • C++ (Mostly DSA)
 ---
 
 ## 🌱 Currently Learning
-- 🔐 **Google Cloud Security**  
+- 🏁 Re-mastering basics (from start)
+- 🔐 **Google Cloud Security** (on pause)  
 - 🌩️ AWS Solutions Architect (next goal)  
-- ☕ **Spring Boot**  
-- 🧱 System Design Fundamentals  
-- 🤖 Deeper ML concepts  
-- 🍃 MongoDB patterns
+- ☕ **Spring Boot** (future goal)
+- 🧱 System Design Fundamentals (in progress)  
+- 🤖 Deeper ML concepts (in progress) 
+- 🍃 MongoDB patterns (in progress)
 
 ## 🏆 Achievements
 - [Protect Sensitive Data with Data Loss Prevention Skill Badge](https://www.credly.com/badges/9ee63afc-304c-4257-97bb-bc207347e1de/public_url)
