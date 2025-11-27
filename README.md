@@ -67,7 +67,7 @@ C# • Swift 4 • C++ (Mostly DSA)
 ![Codewars](https://www.codewars.com/users/snehil-pandey/badges/large)
 
 ### 🟡 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/snehil-pandey?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/snehil-pandey?theme=catppuccinMocha)
 
 ---
 
@@ -82,6 +82,11 @@ C# • Swift 4 • C++ (Mostly DSA)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=snehil-pandey&show_icons=true&theme=tokyonight" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehil-pandey&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snehil-pandey&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10"/>
 </p>
 
 ---
