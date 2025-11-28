@@ -80,6 +80,7 @@ C# • Swift 4 • C++ (Mostly DSA)
 
 ## 📈 GitHub Stats  
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=snehil-pandey&theme=tokyonight&hide_border=true&short_numbers=true" height="150" /> <br />
 <img src="https://github-readme-stats.vercel.app/api?username=snehil-pandey&show_icons=true&theme=tokyonight" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehil-pandey&layout=compact&theme=tokyonight" height="150"/>
 </p>
